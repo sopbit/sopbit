@@ -1,5 +1,34 @@
-## hey
+<div align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=30&duration=3800&pause=1000&color=AB9DFF&center=true&multiline=true&width=455&height=60&lines=Hello+World!+I'm+Sophia!+%F0%9F%90%88" alt="Typing SVG" /></a>
 
-### stuff  ༘
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+</div>
 
+
+##### ABOUT ME 
+<pre>
+
+    🎓 CS @ UTFPR
+    ⚙️ IT Support • Cybersecurity  
+    🧠 ML • Data
+
+    🧩 Currently learning:
+       › Data Analysis
+</pre>
+
+##### LANGUAGES & TOOLS
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&fontFamily=Roboto+Mono&lineCount=1&hideTitle=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=python%2Cpython%2C18c4db%3BJavascript%2CJS%2Cffe500%3BMYSQL%2CSQL%2C71ffe9%3B" alt="LANGUAGES" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=LANGUAGES&fontFamily=Roboto+Mono&lineCount=1&hideTitle=true&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=GIT%2CGIT%2Cffffff%3BLINUX%2Clinux%2C8c61ff%3Bjupyter%2Cjupyter%2Cffc538%3Bvirtualbox%2CVIRTUALBOX%2Cff4848%3B" alt="LANGUAGES" />
+
+<div align="center">
+  
+---
+  
+### « contact me! »
+let’s connect — code, ideas, or coffee.
+<BR>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sophiaperaza)
+[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/sopbit)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s.bruginski@gmail.com)
