@@ -8,12 +8,12 @@
 ##### ABOUT ME 
 <pre>
 
-    🎓 CS @ UTFPR
-    ⚙️ IT Support • Cybersecurity  
-    🧠 ML • Data
+🎓 CS @ UTFPR
+⚙️ IT Support • Cybersecurity  
+🧠 ML • Data
 
-    🧩 Currently learning:
-       › Data Analysis
+🧩 Currently learning:
+    › Data Analysis
 </pre>
 
 ##### LANGUAGES & TOOLS
